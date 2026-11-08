@@ -65,7 +65,7 @@ app.MapPost("/api/handshake", async (HttpRequest req) =>
     var sid = Convert.ToHexString(RandomNumberGenerator.GetBytes(4)).ToLower();
     sessioni[sid] = chiave;
 
-    return Results.Json(new { session_id = sid, B = B.ToString("X") });
+    return Results.Json(new JsonObject { ["session_id"] = sid, ["B"] = B.ToString("X") });
 });
 
 // ================= /api/telemetry =================

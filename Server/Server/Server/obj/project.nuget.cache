@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KS5Gz/yAEdE=",
+  "dgSpecHash": "0lTSxzjX+Ec=",
   "success": true,
-  "projectFilePath": "C:\\Users\\capoferri.22061\\Documents\\GitHub\\frigotrakcapoferri\\Server\\Server\\Server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\mattia\\Documents\\GitHub\\frigotrakcapoferri\\Server\\Server\\Server\\Server.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\capoferri.22061\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\capoferri.22061\\.nuget\\packages\\json.more.net\\3.0.1\\json.more.net.3.0.1.nupkg.sha512",
-    "C:\\Users\\capoferri.22061\\.nuget\\packages\\jsonpointer.net\\7.0.4\\jsonpointer.net.7.0.4.nupkg.sha512",
-    "C:\\Users\\capoferri.22061\\.nuget\\packages\\jsonschema.net\\9.6.0\\jsonschema.net.9.6.0.nupkg.sha512"
+    "C:\\Users\\mattia\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\mattia\\.nuget\\packages\\json.more.net\\3.0.1\\json.more.net.3.0.1.nupkg.sha512",
+    "C:\\Users\\mattia\\.nuget\\packages\\jsonpointer.net\\7.0.4\\jsonpointer.net.7.0.4.nupkg.sha512",
+    "C:\\Users\\mattia\\.nuget\\packages\\jsonschema.net\\9.6.0\\jsonschema.net.9.6.0.nupkg.sha512"
   ],
   "logs": []
 }
