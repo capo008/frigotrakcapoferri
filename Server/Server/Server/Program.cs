@@ -32,7 +32,7 @@ var schReadings = Carica("readings_request.json");
 // Intervalli di sicurezza per tipo di merce
 var range = new Dictionary<string, (double min, double max)>
 {
-    ["pharma"] = (2, 8),
+    ["pharma"] = (3, 8),
     ["food"] = (0, 6),
     ["frozen"] = (-25, -15)
 };

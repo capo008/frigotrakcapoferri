@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mattia\\Documents\\GitHub\\frigotrakcapoferri\\Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57310F89-BDC5-467D-8072-D1CD18C382E9}|Client\\Client.csproj|c:\\users\\mattia\\documents\\github\\frigotrakcapoferri\\client\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57310F89-BDC5-467D-8072-D1CD18C382E9}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE7EEA74-2FE0-136F-D797-854FD87E022A}|Client\\Client.csproj|c:\\users\\mattia\\documents\\github\\frigotrakcapoferri\\client\\client\\schemas\\readings_response.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE7EEA74-2FE0-136F-D797-854FD87E022A}|Client\\Client.csproj|solutionrelative:client\\schemas\\readings_response.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7EEA74-2FE0-136F-D797-854FD87E022A}|Client\\Client.csproj|c:\\users\\mattia\\documents\\github\\frigotrakcapoferri\\client\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7EEA74-2FE0-136F-D797-854FD87E022A}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "readings_response.json",
+              "DocumentMoniker": "C:\\Users\\mattia\\Documents\\GitHub\\frigotrakcapoferri\\Client\\Client\\schemas\\readings_response.json",
+              "RelativeDocumentMoniker": "Client\\schemas\\readings_response.json",
+              "ToolTip": "C:\\Users\\mattia\\Documents\\GitHub\\frigotrakcapoferri\\Client\\Client\\schemas\\readings_response.json",
+              "RelativeToolTip": "Client\\schemas\\readings_response.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T17:58:10.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mattia\\Documents\\GitHub\\frigotrakcapoferri\\Client\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
               "ToolTip": "C:\\Users\\mattia\\Documents\\GitHub\\frigotrakcapoferri\\Client\\Client\\Program.cs",
               "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAuwGwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T11:20:42.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-08T11:20:42.338Z"
             }
           ]
         }

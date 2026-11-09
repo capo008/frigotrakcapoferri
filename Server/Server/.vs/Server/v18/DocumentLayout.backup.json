@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA887A24-CC97-4D1B-9C09-4639FDF6734C}|Server\\Server.csproj|c:\\users\\mattia\\documents\\github\\frigotrakcapoferri\\server\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA887A24-CC97-4D1B-9C09-4639FDF6734C}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mattia\\.copilot\\plans\\plan-implementazione-base-del-server.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,29 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "plan-implementazione-base-del-server.md [Anteprima]",
-              "DocumentMoniker": "C:\\Users\\mattia\\.copilot\\plans\\plan-implementazione-base-del-server.md",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.copilot\\plans\\plan-implementazione-base-del-server.md",
-              "ToolTip": "C:\\Users\\mattia\\.copilot\\plans\\plan-implementazione-base-del-server.md [Anteprima]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\.copilot\\plans\\plan-implementazione-base-del-server.md [Anteprima]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-11-08T11:09:18.626Z",
-              "EditorCaption": " [Anteprima]"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mattia\\Documents\\GitHub\\frigotrakcapoferri\\Server\\Server\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "C:\\Users\\mattia\\Documents\\GitHub\\frigotrakcapoferri\\Server\\Server\\Server\\Program.cs",
-              "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAA7wJcAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mattia\\Documents\\GitHub\\frigotrakcapoferri\\Server\\Server\\Server\\Program.cs*",
+              "RelativeToolTip": "Server\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-06T15:36:01.383Z",
               "EditorCaption": ""

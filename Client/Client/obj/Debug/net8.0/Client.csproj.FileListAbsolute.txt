@@ -34,3 +34,13 @@ C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\obj\Debug\net8
 C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
 C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\obj\Debug\net8.0\ref\Client.dll
 C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\obj\Debug\net8.0\Client.csproj.Up2Date
+C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\bin\Debug\net8.0\Humanizer.dll
+C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\bin\Debug\net8.0\Json.More.dll
+C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\bin\Debug\net8.0\JsonPointer.Net.dll
+C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\bin\Debug\net8.0\JsonSchema.Net.dll
+C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\bin\Debug\net8.0\schemas\error.json
+C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\bin\Debug\net8.0\schemas\handshake_request.json
+C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\bin\Debug\net8.0\schemas\readings_request.json
+C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\bin\Debug\net8.0\schemas\readings_response.json
+C:\Users\mattia\Documents\GitHub\frigotrakcapoferri\Client\Client\bin\Debug\net8.0\schemas\telemetry.json
